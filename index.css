@@ -51,7 +51,7 @@ body
     background-color: var(--white);
 }
 
-.header svg
+.header .svg
 {
     position: absolute;
     z-index: 0;
